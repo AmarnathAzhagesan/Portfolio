@@ -1,0 +1,11 @@
+/* src/components/Skills.css */
+.skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  

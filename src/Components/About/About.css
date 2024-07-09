@@ -1,0 +1,35 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    padding: 0 20px; /* Remove top padding */
+    margin-top: 0; /* Ensure no extra margin on top */
+  }
+  
+  .about-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .about-details {
+    max-width: 600px;
+  }
+  
+  .about-details h2 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .about-details h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .about-details p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+  

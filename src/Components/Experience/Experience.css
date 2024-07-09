@@ -1,0 +1,13 @@
+/* src/components/Experience.css */
+.experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3 {
+    margin: 0;
+  }
+  
+  .experience-item p {
+    margin: 5px 0;
+  }
+  

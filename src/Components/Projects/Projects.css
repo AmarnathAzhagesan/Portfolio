@@ -1,0 +1,18 @@
+/* src/components/Projects.css */
+.project-item {
+    margin-bottom: 20px;
+  }
+  
+  .project-item h3 {
+    margin: 0;
+  }
+  
+  .project-item p {
+    margin: 5px 0;
+  }
+  
+  .project-item a {
+    color: #4aaff7;
+    text-decoration: none;
+  }
+  
