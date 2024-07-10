@@ -6,12 +6,15 @@ const Skills = () => {
     <section id="skills">
       <h2>Skills</h2>
       <ul className="skills-list">
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>Node.js</li>
-        <li>HTML & CSS</li>
+        <li>C</li>
+        <li>C++</li>
+        <li>Java</li>
         <li>Python</li>
+        <li>React</li>
+        <li>Node</li>
         <li>Django</li>
+        <li>SQL</li>
+        <li>Machine Learning</li>
       </ul>
     </section>
   );
