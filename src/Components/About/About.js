@@ -1,11 +1,13 @@
 import React from 'react';
 import './About.css';
+import Profile from "../../images/Profile.jpg"
 
 const About = () => {
+  var profile=Profile
   return (
     <section id="about">
       <div className="about-container">
-        <img src="path_to_your_image.jpg" alt="Your Name" className="about-image" />
+        <img src={profile} alt="Your Name" className="about-image" />
         <div className="about-details">
           <h2>Amarnath A</h2>
           <h3>CSE Undergrad'25 at SASTRA University</h3>
